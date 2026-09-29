@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="W0202Minimum/W0202Minimum.vcxproj" Id="1d2b47bb-fd79-430a-8551-706e24889898" />
+</Solution>
